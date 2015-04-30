@@ -1,0 +1,10 @@
+Done! If you want to start the server, head into coco/bin and run 
+1. ./coco-mongodb
+2. ./coco-brunch 
+3. ./coco-dev-server
+NOTE: brunch may need to be run as sudo if it doesn't work (ulimit needs to be set higher than default)
+
+Before can play any levels you must update the database. See the Setup section here:
+https://github.com/codecombat/codecombat/wiki/Dev-Setup:-Linux#installing-the-database
+
+Go to http://localhost:3000 to see your local CodeCombat in action!
